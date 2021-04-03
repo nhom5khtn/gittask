@@ -2,6 +2,5 @@
 using namespace std;
 
 void main(){
-	cout<<"Initialized\n";
-	cout<<"First update\n";
+	cout<<"First updated at 2:34PM\n";
 }
